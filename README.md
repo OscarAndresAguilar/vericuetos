@@ -1,0 +1,2 @@
+# vericuetos
+Busca patrones
